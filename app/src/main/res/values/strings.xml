@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projet_Dev_mobile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Axelle Solignac</string>
+    <string name="nav_header_subtitle">coworker : Baptiste Proust</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Parametres</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Quiz</string>
+    <string name="menu_slideshow">Images en folies</string>
+</resources>
